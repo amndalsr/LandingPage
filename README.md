@@ -1,6 +1,11 @@
 <h1 align="center"> Landing Page </h1>
 
 <h2 align="center">Projeto proposto pela Rafaella Ballerine em seu canal do youtube:</h2>
+<div align="center">
+ 
+ Você também pode refazer esse pojeto. Visite <a align="center" href="https://www.youtube.com/watch?v=llF6vD-RljE">AQUI!</a>
+ 
+</div>
 
 <h3 align="center">✨ Para esse projeto foram utilizados: ✨</h3>
 
